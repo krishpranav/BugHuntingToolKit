@@ -27,9 +27,9 @@ from xml.dom import minidom
 from optparse import OptionParser
 from time import sleep
 
-yes = set(['yes', 'y', 'Yes', 'Y'])
-no = set(['no', 'n', 'No', 'N'])
 
+yes = set(['y', 'yes', 'Yes', 'Y'])
+no = set(['n', 'no', 'No', 'N'])
 
 def menu():
     clearScr()
