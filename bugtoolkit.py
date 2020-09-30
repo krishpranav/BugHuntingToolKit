@@ -43,7 +43,7 @@ def menu():
    \033[39m\033[96m[4] - Exploitation
    \033[39m\033[96m[5] - P0Cs & Reporting 
    \033[39m\033[96m[whoami] - Your IP and Location 
-   \033[39m\033[96m[exit] - Exit The BubBountyToolkit               
+   \033[39m\033[96m[exit] - Exit The BugBountyToolkit               
  """)
     choice = raw_input(" \033[1;31m\033  ~# ")
     os.system('clear')
