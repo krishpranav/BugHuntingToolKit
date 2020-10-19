@@ -1,7 +1,14 @@
 #!usr/bin/env/python3
-# imports
- 
 
+'''
+A simple python tool for installing hacking tools used by bug hunters
+tool name: BugHuntingToolKit
+tool author: krishpranav
+language used: python
+'''
+
+ 
+#imports
 import os
 import time
 import httplib
